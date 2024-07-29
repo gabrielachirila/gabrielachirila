@@ -1,5 +1,4 @@
-### <div align="center">👋 Hello there! I'm Gabriela, a dedicated Computer Science student 🎓 with an insatiable hunger for growth and learning. Even though I'm currently studying, I'm already diving deep into the world of development. 💻</div>  
-  
+<div align="center">👋 Hello there! I'm Gabriela, a dedicated Computer Science graduate 🎓 with an insatiable hunger for growth and learning. While I have completed my Bachelor's degree in Computer Science, I am now pursuing a Master's in Business Information Systems. 💻 I am actively seeking professional growth and the opportunity to improve day after day. </div>
 <br/>  
 
 
