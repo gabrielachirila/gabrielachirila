@@ -33,11 +33,3 @@
 
 <br/>
 <hr/>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gabrielachirila/count.svg?"  />
-</div>
-
-###
